@@ -7,6 +7,7 @@
 | 文档 | 说明 |
 | ---- | ---- |
 | [新硬件适配赛道详细指引](./hardware_porting_track_guide.md) | 赛道概述、赛题要求、评分加分项、参考资源。 |
+| [最小可运行 NSH 系统 defconfig 参考](./defconfig_reference/minimum_nsh_baseline.md) | 以 goldfish 模拟器板为基线，逐项讲解新硬件适配所需的 CONFIG 选项（NSH、网络、图形、传感等 8 大功能桶）。 |
 | openvela 芯片移植指南 | 从零完成 BSP 移植的完整流程（位于 docs 仓库 `zh-cn/chip_porting/porting_guide.md`）。 |
 | openvela 驱动开发指南 | UART/SPI/I2C 等各类驱动的适配与使用。[在线文档](https://doc.openvela.com/document?id=198&version=trunk&language=cn) |
 
